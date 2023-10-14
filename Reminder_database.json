@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "registerUser": [
+    {
+      "name": "kalpana dash",
+      "email": "kdas@gmail.com",
+      "phone": "455555",
+      "pass": "kalpana",
+      "id": 1
+    }
+  ],
+  "ActiveUser": {
+    "name": "kalpana dash",
+    "email": "kdas@gmail.com",
+    "phone": "455555",
+    "pass": "kalpana",
+    "id": 1,
+    "isCurrentUser": true
+  },
+  "reminderList": [
+    {
+      "rDate": "2023-10-16",
+      "subject": "anniversary",
+      "desc": "dsfkljdsfklds",
+      "email": "dflkdsfkss",
+      "contact": "dsfksdfklsd",
+      "sms": "sdfkldsjfkljds",
+      "rnext": "3",
+      "remName": "my rem",
+      "isActive": true,
+      "id": 1
+    }
+  ]
+}
